@@ -3,7 +3,7 @@ base="light"
 
 [server]
 port = 8051
-baseUrlPath = "streamlit-gpt-experimentations"
+baseUrlPath = "chatbot"
 sslCertFile="ssl/localhost.crt"
 sslKeyFile="ssl/localhost.key"
 
